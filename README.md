@@ -5,8 +5,7 @@ We want to be surrounded by mindful and relaxed people without the stress. We he
 **For Business**
 Our goal:  Our new goal for the 2022 is to reach the LTV $0.8 and to achieve Retention Rate 28 day in 2022 to 16%
 # Questions 
-1) Retention rate
-Current problem:
+Current problem of Retention rate:
 Low CR in payment , the functionality opens after 5 consecutive days of use.
 
 Main question:
